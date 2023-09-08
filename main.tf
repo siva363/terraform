@@ -1,4 +1,4 @@
 module "networking_module"{
-  source="./networking"
+  source="https://github.com/siva363/terraform.git"
 }
 
